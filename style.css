@@ -1,4 +1,5 @@
 
+
 #tableau{
     width: 420px;
     height: 230px;
@@ -26,9 +27,44 @@
      color: white;
 }
 .display{
+
     width: 420px;
     height: 730px;
     background-color: slateblue;
     margin-left: auto;
     margin-right: auto;
 }
+
+.btn {
+    width: 24%;
+    height: 50px;
+    margin: 0px;
+    border: none;
+    padding :0%;
+}
+
+#btc {
+    width: 24%;
+    height: 50px;
+    margin: 0px;
+    border: none;
+    padding :0%;
+}
+
+.btnb {
+    background-color: #FFF;
+    font-family: roboto;
+     width: 24%;
+    height: 50px;
+    margin: 0px;
+    border: none;
+    padding :0%;
+}
+
+
+.ddd {
+    width :100%;
+    margin: 0px;
+    border: none;
+}
+
