@@ -1,5 +1,7 @@
 .display{
     width: 420px;
     height: 730px;
-    background-color:#fefefe;
+    background-color: slateblue;
+    margin-left: auto;
+    margin-right: auto;
 }
