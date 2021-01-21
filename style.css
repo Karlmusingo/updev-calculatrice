@@ -1,4 +1,33 @@
-.display {
+
+
+#tableau{
+    width: 420px;
+    height: 230px;
+    background-color:#9382F0;
+    margin-left: auto;
+    margin-right: auto;
+}
+#image{
+     padding-top: 100px;
+    margin-left: 60px; 
+    display: inline-block;
+}
+#label1{
+    display: inline-block;
+    margin-left: 200px;
+    padding-top: 70px;
+    font-size: 20px;
+    color: white;
+}
+#label2{
+    display: inline-block;
+     margin-left: 20px;
+     padding-top: 20px;
+     font-size: 30px;
+     color: white;
+}
+.display{
+
     width: 420px;
     height: 730px;
     background-color: slateblue;
@@ -38,3 +67,4 @@
     margin: 0px;
     border: none;
 }
+
